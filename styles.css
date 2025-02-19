@@ -1,0 +1,35 @@
+#myheader{
+    text-align: center;
+    border: 1rem solid red;
+
+}
+
+h1{
+    font-size: 40px;
+    color: rgb(165, 87, 42) ;
+}
+h3{
+    font-size: 25px;
+    color: rgb(165, 87, 42);
+    text-decoration:green wavy underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: tan;
+    padding-inline: 15%;
+}
+
+.items{
+    list-style: circle;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.directions{
+    font-weight: bolder;
+    text-indent: 30% hanging each-line;
+
+}
+#pic{
+    box-shadow: 3px 3px red, -1em 0 .4em olive;
+}
